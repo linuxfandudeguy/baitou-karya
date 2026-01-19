@@ -1,4 +1,11 @@
 <img src="./logo.png" alt="Logo">
+Download latest version (OpenUTAU)
+
+<a href="https://github.com/linuxfandudeguy/teei-nepi/releases/latest" target="_blank">
+  <img src="https://github.com/linuxfandudeguy/teei-nepi/releases/download/latest/svgviewer-png-output.png" 
+       alt="Download latest release" 
+       style="width: 200px; height: auto; cursor: pointer;">
+</a>
 
 
 ## Character Bio
@@ -29,3 +36,7 @@ Nepi is designed to embody a punk/scene aesthetic with a colorful and energetic 
 - **Recommended Editor:** OpenUtau  
 - **Recommended Phonemizer:** JP VCV  
 - **Recommended Resampler:** MoReSampler
+
+## Demo
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gb9x3FhvqhY?si=Zaebd0qVMq2gzfAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
