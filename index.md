@@ -1,4 +1,5 @@
-# 手英ネピ (Teei Nepi)
+<img src="/logo.png" alt="Logo">
+
 
 ## Character Bio
 
