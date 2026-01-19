@@ -47,7 +47,7 @@ Nepi is designed to embody a punk/scene aesthetic with a colorful and energetic 
 
 ## ✅ DO
 
-Portray 手英ネピ as a 13-year-old male.
+Portray Teei Nepi as a 13-year-old male.
 
 Respect his grayromantic (aromantic spectrum) orientation.
 
@@ -106,7 +106,7 @@ Sexual framing combined with gore
 ## ✅ 允许（DO）
 
 
-手英ネピ必须被描绘为13 岁的男性。
+手英内皮必须被描绘为13 岁的男性。
 
 尊重其灰浪漫取向（无浪漫光谱）。
 
