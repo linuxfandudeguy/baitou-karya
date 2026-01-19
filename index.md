@@ -42,8 +42,10 @@ Nepi is designed to embody a punk/scene aesthetic with a colorful and energetic 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gb9x3FhvqhY?si=Zaebd0qVMq2gzfAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Rules
-#English — DO / DON’T RULES
-##✅ DO
+
+# English — DO / DON’T RULES
+
+## ✅ DO
 
 Portray 手英ネピ as a 13-year-old male.
 
@@ -100,7 +102,8 @@ Gore intended for sexual arousal
 Sexual framing combined with gore
 
 # 中文（ZH）— 使用规则 
-##✅ 允许（DO）
+
+## ✅ 允许（DO）
 
 
 手英ネピ必须被描绘为13 岁的男性。
