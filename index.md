@@ -2,7 +2,7 @@
 Download latest version (OpenUTAU)
 
 <a href="https://github.com/linuxfandudeguy/teei-nepi/releases/latest" target="_blank">
-  <img src="https://github.com/linuxfandudeguy/teei-nepi/releases/download/latest/svgviewer-png-output.png" 
+  <img src="./svgviewer-png-output.png" 
        alt="Download latest release" 
        style="width: 200px; height: auto; cursor: pointer;">
 </a>
