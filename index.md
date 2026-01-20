@@ -223,6 +223,5 @@ NSFW や性的内容の歌詞・表現は禁止。
 
 ------------------
 <!-- FC2 Counter  Starts here -->
-<script language="javascript" type="text/javascript" src="//counter1.fc2.com/counter.php?id=89514780"></script><noscript><img src="//counter1.fc2.com/counter_img.php?id=89514780" /></noscript>
 <!-- FC2 Counter  Ends here -->
 <a href="https://info.flagcounter.com/8O4C"><img src="https://s01.flagcounter.com/map/8O4C/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
