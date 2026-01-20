@@ -41,6 +41,10 @@ Nepi is designed to embody a punk/scene aesthetic with a colorful and energetic 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gb9x3FhvqhY?si=Zaebd0qVMq2gzfAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm45856743/script?w=320&h=180"></script><noscript><a href="https://www.nicovideo.jp/watch/sm45856743">手英ネピ（Teei Nepi）ボイスバンク配布 / リリース / デモ</a></noscript>
+
+
+
 ## Rules
 
 # English — DO / DON’T RULES
