@@ -34,7 +34,7 @@ His favorite food is green muscat grapes.
 
 ## Technical Details
 
-- **Voice Type:** Romanji VCV  
+- **Voice Type:** Romaji VCV  
 - **Recommended Editor:** OpenUtau  
 - **Recommended Phonemizer:** JP VCV  
 - **Recommended Resampler:** MoReSampler
