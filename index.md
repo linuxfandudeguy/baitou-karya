@@ -1,4 +1,4 @@
-<img src="./logo.png" alt="Logo">
+<img src="./7DD82917-35DB-4DBA-BE0F-3E599FF2198D.png" alt="Logo">
 
 
 <a href="https://github.com/linuxfandudeguy/teei-nepi/releases/latest" target="_blank">
@@ -10,44 +10,41 @@
 
 ## Character Bio
 
-- **Age:** 13  
+- **Age:** Ageless (fake age 17)  
 - **Gender:** Male  
-- **Orientation:** Grayromantic (aromantic spectrum)  
-- **Personality/Traits:** Nepi is a punk/scene teen who loves Green Day. He has ADHD.  
+- **Orientation:** Aroace
+- **Personality/Traits:**Person made in a lab from asexual reproduction.
 
 ## Appearance
 
-- **Eyes:** Red  
-- **Skin:** Slightly tan  
-- **Hair:** Multicolored dyed hair (blue, green, yellow, orange)  
+- **Eyes:** Blue  
+- **Skin:** Pale 
+- **Hair:** Red
 - **Clothing/Accessories:**  
-  - Spike choker  
+  - Necklace
   - Gray sweatpants  
-  - Green Day T-shirt  
+  - Black turtleneck
   - Black Converse shoes  
 
 ## Notes
 
-Nepi is designed to embody a punk/scene aesthetic with a colorful and energetic appearance, matching his love for punk music and his expressive personality.
+Karya was made in an Armenian lab on accident while scientists were experimenting on a test subject by modifying a human using planarian genes to test limb regeneration, but one of genes were copied twice, so when they removed the limb, it ended up turning into Karya. They tested him and microchipped him but let him go because he had inherited the regeneration powers meaning he could asexually reproduce. Karya has escaped the lab since.
 
-His favorite food is green muscat grapes.
+
+His favorite food is orange chicken or anything spicy, but not too acidic.
+
+His favorite drink is kiwi juice or frappes.
 
 ## Technical Details
 
-- **Voice Type:** Romaji VCV  
-- **Recommended Editor:** OpenUtau  
-- **Recommended Phonemizer:** JP VCV  
+- **Voice Type:** Romaji 単独音 (CV) 
+- **Recommended Editor:** UTAlet, OpenUtau  
+- **Recommended Phonemizer:** JP CV  
 - **Recommended Resampler:** MoReSampler
 
 ## Demo
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gb9x3FhvqhY?si=Zaebd0qVMq2gzfAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm45856743/script?w=320&h=180"></script><noscript><a href="https://www.nicovideo.jp/watch/sm45856743">手英ネピ（Teei Nepi）ボイスバンク配布 / リリース / デモ</a></noscript>
-
-
-
-## Rules
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Pt_8OWwdH2g?si=YIXmb5efWa1SsLCF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # English — DO / DON’T RULES
 
