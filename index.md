@@ -1,7 +1,7 @@
 <img src="./7DD82917-35DB-4DBA-BE0F-3E599FF2198D.png" alt="Logo">
 
 
-<a href="https://github.com/linuxfandudeguy/teei-nepi/releases/latest" target="_blank">
+<a href="https://github.com/linuxfandudeguy/baitou-karya/releases" target="_blank">
   <img src="./svgviewer-png-output.png" 
        alt="Download latest release" 
        style="width: 200px; height: auto; cursor: pointer;">
