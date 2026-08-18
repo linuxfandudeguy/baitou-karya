@@ -10,9 +10,9 @@
 
 ## Character Bio
 
-- **Age:** Ageless (fake age 17)  
+- **Age:** Ageless (fake age 19)  
 - **Gender:** Male  
-- **Orientation:** Aroace
+- **Orientation:** Apothiaroace
 - **Personality/Traits:**Person made in a lab from asexual reproduction.
 
 ## Appearance
@@ -29,7 +29,7 @@
 ## Notes
 He uses the reclist from felinewasteland.
 
-Karya was made in an Armenian lab on accident while scientists were experimenting on a test subject by modifying a human using planarian genes to test limb regeneration, but one of genes were copied twice, so when they removed the limb, it ended up turning into Karya. They tested him and microchipped him but let him go because he had inherited the regeneration powers meaning he could asexually reproduce. Karya has escaped the lab since.
+Karya was made in an Armenian lab on accident while scientists were experimenting on a test subject by modifying a human using planarian genes to test limb regeneration, but one of genes were copied twice, so when they removed the limb, it ended up turning into Karya. They tested him and microchipped him but let him go because he had inherited the regeneration powers meaning he could asexually reproduce.
 
 
 His favorite food is chicken.
@@ -56,7 +56,6 @@ His favorite drink is kiwi juice.
    - UTAU Voicebank Creator: duro@ZuP
    - Character Design: duro@ZuP
 5. Content Restrictions:
-   - Do NOT depict Karya in extreme NSFW situations.
    - Do NOT use Karya in works involving sexualization of minors.
    - Do NOT depict Karya committing acts of hate speech, glorified violence, or discriminatory actions.
    - You MAY depict Karya in regular, general-audience songs, illustrations, comics, animations, or stories.
