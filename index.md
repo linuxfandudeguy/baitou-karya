@@ -41,7 +41,7 @@ His favorite drink is kiwi juice or frappes.
 - **Voice Type:** Romaji 単独音 (CV) 
 - **Recommended Editor:** UTAlet, OpenUtau  
 - **Recommended Phonemizer:** the default one 
-- **Recommended Resampler:** MoReSampler
+- **Recommended Resampler:** fresamp, MoReSampler
 
 ## Demo
 
