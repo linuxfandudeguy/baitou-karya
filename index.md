@@ -32,16 +32,16 @@ He uses the reclist from felinewasteland.
 Karya was made in an Armenian lab on accident while scientists were experimenting on a test subject by modifying a human using planarian genes to test limb regeneration, but one of genes were copied twice, so when they removed the limb, it ended up turning into Karya. They tested him and microchipped him but let him go because he had inherited the regeneration powers meaning he could asexually reproduce. Karya has escaped the lab since.
 
 
-His favorite food is orange chicken or anything spicy, but not too acidic.
+His favorite food is chicken.
 
-His favorite drink is kiwi juice or frappes.
+His favorite drink is kiwi juice.
 
 ## Technical Details
 
 - **Voice Type:** Romaji 単独音 (CV) 
-- **Recommended Editor:** UTAlet, OpenUtau  
+- **Recommended Editor:** OpenUtau  
 - **Recommended Phonemizer:** the default one 
-- **Recommended Resampler:** fresamp, MoReSampler
+- **Recommended Resampler:** doppelter64, MoreSampler
 
 ## Demo
 
